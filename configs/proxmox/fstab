@@ -1,0 +1,10 @@
+# <file system> <mount point> <type> <options> <dump> <pass>
+/dev/pve/root / ext4 errors=remount-ro 0 1
+UUID=3028-CDF2 /boot/efi vfat defaults 0 1
+/dev/pve/swap none swap sw 0 0
+proc /proc proc defaults 0 0
+
+100.92.234.68:/mnt/user/isos /nfs/isos nfs rw,soft,vers=4.2,timeo=10,retrans=3,intr 0 0
+100.92.234.68:/mnt/user/vm /nfs/vms nfs rw,soft,vers=4.2,timeo=10,retrans=3,intr 0 0
+100.92.234.68:/mnt/user/backups/proxmox_backups /nfs/backups nfs rw,soft,vers=4.2,timeo=10,retrans=3,intr 0 0
+100.92.234.68:/mnt/user/repos /nfs/repos nfs rw,soft,vers=4.2,timeo=10,retrans=3,intr 0 0

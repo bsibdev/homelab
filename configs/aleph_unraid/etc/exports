@@ -1,0 +1,20 @@
+# See exports(5) for a description.
+# This file contains a list of all directories exported to other computers.
+# It is used by rpc.nfsd and rpc.mountd.
+
+"/mnt/user/appdata" -fsid=112,async,no_subtree_check 100.112.63.111(rw) 100.67.82.107(rw)
+"/mnt/user/appdata-backup" -fsid=113,async,no_subtree_check 100.112.63.111(rw) 100.67.82.107(rw)
+"/mnt/user/backups" -fsid=119,async,no_subtree_check 100.0.0.0/8(rw) *(ro)
+"/mnt/user/diamond" -fsid=105,async,no_subtree_check 100.112.63.111(rw) 100.67.82.107(rw)
+"/mnt/user/diamond-cache" -fsid=115,async,no_subtree_check 100.112.63.111(rw) 100.67.82.107(rw)
+"/mnt/user/games" -fsid=120,async,no_subtree_check 100.112.63.111(rw) 100.67.82.107(rw)
+"/mnt/user/ice" -fsid=103,async,no_subtree_check 100.112.63.111(rw) 100.76.225.4(rw) 100.67.82.107(rw)
+"/mnt/user/isos" -fsid=101,async,no_subtree_check 100.0.0.0/8(rw) *(ro)
+"/mnt/user/l1" -fsid=107,async,no_subtree_check 100.112.63.111(rw) 100.67.82.107(rw)
+"/mnt/user/marble" -fsid=106,async,no_subtree_check 100.76.225.4(rw) 100.67.82.107(rw)
+"/mnt/user/rec" -fsid=116,async,no_subtree_check 100.112.63.111(rw) 100.67.82.107(rw)
+"/mnt/user/repos" -fsid=121,async,no_subtree_check 100.0.0.0/8(rw)
+"/mnt/user/sync" -fsid=117,async,no_subtree_check 100.0.0.0/8(rw)
+"/mnt/user/tnt" -fsid=109,async,no_subtree_check 100.112.63.111(rw) 100.67.82.107
+"/mnt/user/vm" -fsid=108,async,no_subtree_check 100.0.0.0/8(rw)
+"/mnt/user/wave" -fsid=100,async,no_subtree_check 100.0.0.0/8(rw)
