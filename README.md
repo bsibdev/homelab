@@ -1,3 +1,4 @@
 # homelab
 
-![homelab drawio (1)](https://github.com/user-attachments/assets/580e754f-cb0e-4692-a0e8-899977b40da5)
+## Diagram
+![homlab](https://github.com/user-attachments/assets/2e8ead4b-4612-4aaf-bda3-f428fcad12d5)
