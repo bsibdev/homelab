@@ -1,4 +1,5 @@
 # homelab
 
 ## Diagram
-![homlab](https://github.com/user-attachments/assets/2e8ead4b-4612-4aaf-bda3-f428fcad12d5)
+
+![homelab](https://github.com/user-attachments/assets/c1fd7168-1b02-462b-b3b5-b69eca73b039)
