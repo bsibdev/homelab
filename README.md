@@ -1,5 +1,5 @@
 # Diagram
-![homelab_diagram-githubdark drawio](https://github.com/user-attachments/assets/83b1c0ff-5f76-45c6-8146-539179d395ec)
+![homelab-diagram_github-dark drawio](https://github.com/user-attachments/assets/1c9a5465-cdc2-4348-9069-f16a3400fd35)
 
 # Wiki
 https://www.notion.so/Home-Lab-Wiki-1e69b3e0744e801ba6bedb01c1e6bb67?pvs=4
