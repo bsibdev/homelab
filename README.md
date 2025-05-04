@@ -1,6 +1,6 @@
 # Documentation
 ## Diagram
-![homelab-diagram_github-dark drawio](https://github.com/user-attachments/assets/3e6897c5-71b5-413a-85c2-ab537c25ce71)
+![homelab-diagram drawio](https://github.com/user-attachments/assets/b5a1f2b7-bd87-4b4d-baa5-0ece564901e8)
 
 ## Wiki
 https://www.notion.so/Home-Lab-Wiki-1e69b3e0744e801ba6bedb01c1e6bb67?pvs=4
